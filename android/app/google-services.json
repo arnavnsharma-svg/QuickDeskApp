@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560632601585",
+    "project_id": "quickdesk-cd7d8",
+    "storage_bucket": "quickdesk-cd7d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560632601585:android:50d3fb114299b886440250",
+        "android_client_info": {
+          "package_name": "com.arnav.quickdeskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5pvGWfjl5XAH5m4_k3rmGlTjYSQdQpgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
